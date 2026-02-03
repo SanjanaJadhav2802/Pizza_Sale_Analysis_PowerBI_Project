@@ -77,7 +77,7 @@ This page provides a high-level overview of the business performance using KPIs 
 - The Classic pizza category contributes the highest sales and total orders
 - Large-size pizzas generate the maximum revenue
 
-https://github.com/SanjanaJadhav2802/Pizza_Sale_Analysis_PowerBI_Project/blob/main/PBI%20Pizza%20Sale%20Home%20Page.png
+![Home Page](https://github.com/SanjanaJadhav2802/Pizza_Sale_Analysis_PowerBI_Project/blob/main/PBI%20Pizza%20Sale%20Home%20Page.png)
 ---
 
 ### Page 2: Best & Worst Sellers – Product Performance
@@ -90,7 +90,7 @@ This page focuses on identifying high-performing and low-performing pizzas:
 - The Classic Deluxe Pizza contributes the highest quantity sold and total orders
 - The Brie Carre Pizza performs poorly across revenue, quantity, and total orders
 
-A screenshot of this page has also been added to the repository.
+![Best/Worst Seller Page](https://github.com/SanjanaJadhav2802/Pizza_Sale_Analysis_PowerBI_Project/blob/main/PBI%20Pizza%20Sale%20best%20and%20worst%20Page.png)
 
 ---
 
