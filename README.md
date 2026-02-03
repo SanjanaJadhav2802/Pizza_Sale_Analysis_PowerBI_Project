@@ -77,8 +77,7 @@ This page provides a high-level overview of the business performance using KPIs 
 - The Classic pizza category contributes the highest sales and total orders
 - Large-size pizzas generate the maximum revenue
 
-A screenshot of this page has been added to the repository.
-
+https://github.com/SanjanaJadhav2802/Pizza_Sale_Analysis_PowerBI_Project/blob/main/PBI%20Pizza%20Sale%20Home%20Page.png
 ---
 
 ### Page 2: Best & Worst Sellers – Product Performance
